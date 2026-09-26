@@ -20,6 +20,7 @@ _Last updated: June 2026._
 - [Suno](https://suno.com) — free song generations. 🆓
 - [Fish Audio](https://fish.audio) — open-source TTS and voice cloning. 🔓
 - [OmniVoice Studio](https://github.com/debpalash/OmniVoice-Studio) — fully-local, open-source ElevenLabs alternative; no API keys, 646 languages. 🆓 🔓
+- [UpRes](https://upres.ai) — AI image and video upscaling with 5 free upscales per month across 14 specialist models. 🆓
 
 ## Open-source / open-weight
 - [FLUX](https://bfl.ai) — open-weight image models you can self-host. 🔓
