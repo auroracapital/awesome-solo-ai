@@ -6,7 +6,7 @@
 
 **A free solo AI stack is the set of AI tools with genuine free tiers or open-source licenses that a one-person business can use to ship video, voice, images, code, and automations at zero starting cost.** This page filters the full [Awesome Solo AI](README.md) list down to only what's free to begin with. Paid upgrades exist, but you can launch without a credit card.
 
-_Last updated: June 2026._
+_Last updated: September 2026._
 
 ## LLM access (free tier)
 - [OpenRouter](https://openrouter.ai) — free models and a free daily request quota across one API. 🆓
